@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavprakash
 - 👀 I’m interested in learning Generative AI and concepts of data analytics
-- 🌱 I’m currently learning Courses on Python and Generative AI
+- 🌱 I’m currently learning Courses on Data analytics and Generative AI
 - 💞️ I’m looking to collaborate 
 - 📫 You can reach me at bskavyashree1997@gmail.com
 
